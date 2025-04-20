@@ -1,15 +1,24 @@
 .title {
-    color: green;
+    color: darkcyan;
+    font-weight: 500;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .body-main {
     background-color: bisque;
 }
 
-.container-lg 
+.accordion-button {
+    background-color: lightseagreen;
+}
 
 .row {
     padding-top: 20px;
+}
+
+.card-body {
+    background-color: aquamarine;
 }
 
 .footer {
